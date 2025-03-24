@@ -1,85 +1,95 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>（株）オートガレージK 福吉店 公式HP</title>
+    <meta name="description" content="~新車・中古車販売 車検・鈑金・保険・各種ご用命なんでもご相談下さいませ！~">
+    <link rel="stylesheet" href="css/style.css">
 
-h1 { font-family: Arial Black, sans-serif, sans-serif;
-color: blue;   
-}
+</head>
+<body>
+    <header>
+        <h1>（株）オートガレージK 福吉店 公式HP</h1>
+        <h2 class="highlighted-text">~新車・中古車販売 車検・鈑金・保険・各種ご用命なんでもご相談下さいませ！~</h2>
+    </header>
 
-h2 { font-family:Arial Black , sans-serif, sans-serif;
-color: red;
+    <section id="about-title">
+        <h2>＜車のことなら是非当店へ！！＞
+        </h2>
+        <h3>オートガレージＫは街の頼れる車屋さんを目指しています。
+           車の修理や販売はもちろん、点検整備も大歓迎です🚙</h3>
+        </section>
 
-}
+    <section id="about">
+        <h2>＜会社概要＞</h2>
+        <h3>親切・丁寧・誠実を企業理念とし、アットホームな店舗経営をしています。お客様に安心して満足のできる車を購入して頂き、楽しいカーライフをご提案お手伝いします('ω')ノ</h3>
+    </section>
 
-h3 {font-family: Arial Black, sans-serif, sans-serif;
-    color: black;   
-    }
+    <section id="services">
+        <h2>＜営業日＞</h2>
+        <div class="service">
+            <h3>《営業時間》 ９：００～１８：３０</h3>
+            <h3>    《定休日》 第１火曜日、毎週水曜日</h3>
+         
+            <section id="services">              
+        </div>
+    </section>
+             
+    <section id="services">
+       <h2>＜嬉しいクチコミも頂いております！＞</h2>
+       <div class="service">
+        
+            <h3>Aさん：とても親切・丁寧、雰囲気のいい車屋さん。</h3>
+            <h3>Bさん：いつも素早く対応してくれて助かります！</h3>
+            <h3>Cさん：色々な細かな要望にも相談にも乗ってくれる話しやすい車屋さんです。</h3>
+            <section id="services"> 
+            
+        </div>
+    </section>
 
+<section id="service">
+ <h2>＜他のサイトのリンクはコチラ↓＞</h2>
+  <div class="service">
+   <p><a href="https://www.instagram.com/autogarage_k2023/" target="_blank" rel="noopener noreferrer">オートガレージK 福吉店 公式Instagram</a></p>
+   <p><a href="https://www.carsensor.net/shop/okayama/223560001/?psafe_param=1&vos=evcsrawsdzz10500771&gclid=EAIaIQobChMIh9GwgePz_wIVzXJgCh0BNgPIEAAYASAAEgIxH_D_BwE&gclsrc=aw.ds" target="_blank" rel="noopener noreferrer">カーセンサー</a></p>
+   <p><a href="https://www.goo-net.com/usedcar_shop/1020228/detail.html" target="_blank" rel="noopener noreferrer">グーネット</a></p>
+   <p><a href="https://apese.net/gurucomi/?id=9713771" target="_blank" rel="noopener noreferrer">のどかに開発</a></p>
+   <p><a href="https://www.ekiten.jp/shop_2186345/" target="_blank" rel="noopener noreferrer">エキテン</a></p>
+   <p><a href="https://ucar.carview.yahoo.co.jp/shop/okayama/223560001/stock/" target="_blank" rel="noopener noreferrer">carview!（カービュー）</a></p>
+   <p><a href="https://kuruma-ex.jp/usedcar/shop/gcs223560001" target="_blank" rel="noopener noreferrer">自動車EX</a></p>
+   <p><a href="https://kakaku.com/kuruma/used/shop/44929/?msockid=11f7885d318f6f55066f993030386e02" target="_blank" rel="noopener noreferrer">価格.COM</a></p>   
+        </style>
+<section id="contact">
+ <h2>＜お問い合わせ・住所＞</h2>
+       <h3>《住所》岡山市南区福吉町28-17</h3>
+       <h3>《電話番号》086-264-5518</h3>
+</section>
 
-.highlighted-text  { font-family:Arial Black , sans-serif, sans-serif;
-    color: black;}
+    <section id="services">
+        <h2>＜オートガレージK 福吉店 看板キャラクター＞</h2>
+        <div class="service">
+            <h3>名前：カーレディ</h3>
+            <h3>名前の由来：自動車を愛する女性をイメージした名前で、親しみやすさがあります♪</h3>
+            <h3>年齢：２３歳</h3>
+            <section id="services">              
+        </div>
+    </section>
+    <img src="c:\Users\souta\Downloads\u6791899868__--niji_6_efd4d978-ffcd-4852-8d15-633bd2827384_1.png" class="bordered-img resized-img centered-img">  
 
-body {
-    font-family:Arial Black , sans-serif, sans-serif;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
-}
-
-header {
-    background:lightblue ;  
-    color: #fff;
-    padding: 15px;
-    text-align: center;
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin: 0 15px;
-}
-
-nav ul li a { 
-    color:  Arial black;
-    text-decoration: none;
-}
-
-#hero {
-    background: url('hero.jpg') no-repeat center center/cover;
-    color: Arial black;
-    text-align: center;
-    padding: 0px 20px;
-}
-
-.hero-text {
-    font-family: "Arial black", sans-serif;  color: arial black;
-}
-
-section {
-    padding: 2px 0px;
-    text-align: center;  
-}
-
-
-
-footer {
-    background: #333;
-    color: white;
-    text-align: center;
-    padding: 10px;
-}
-
-.bordered-img {
-    border: 6px solid purple; /* 黒色の3pxの枠線 */
-}
-
-.resized-img {
-    width: 450px; /* 幅を300pxに指定 */
-    height: auto; /* 高さは自動調整（元の比率を維持） */
-}
-
-.centered-img {
-    display: block;
-    margin: 0 auto; /* 左右のマージンを自動調整して中央寄せ */
-}
+<section id="services">
+    <h2>＜社長さんのご紹介♪＞</h2>
+        <div class="service">
+        <h3>役職：社長</h3>
+        <h3>年齢：４７歳（HPページ作成当時）</h3>
+        <h3>趣味：園芸</h3>
+        <section id="services">
+        </div>
+    </section>  
+    <img src="https://lh3.googleusercontent.com/d/1ExAokF16o0pm8ohHqADbR1WbfNpiHgDv" class="bordered-img resized-img centered-img">  
+   
+    <footer>
+        <p>&copy; 2025 株式会社 オートガレージK 福吉店. All rights reserved.</p>
+    </footer>
+</body>
+</html>
