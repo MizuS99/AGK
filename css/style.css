@@ -142,3 +142,12 @@ section {
 header h1, header h2 {
     background-color: transparent; /* 背景色を透明にする */
 }
+
+html, body {
+    overflow-x: hidden; /* 横スクロールを無効化 */
+    width: 100vw; /* ビューポートの幅に固定 */
+}
+
+body {
+    max-width: 100%;
+}
